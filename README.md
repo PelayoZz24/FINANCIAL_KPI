@@ -1,5 +1,11 @@
 # Data Card: NASDAQ Stock Price Dataset
 
+## TEAM: 
+Pelayo Negueruela 48308-ex
+Aitana Lasheras 48277-ex
+Ivan Madrid 48284-ex
+
+
 ## 1. Source of Data
 This dataset was collected using the Yahoo Finance API through the `yfinance` Python library in Python.
 
